@@ -1,10 +1,10 @@
-# Homework2 (Due Week 2)
+# Homework3 (Due Week 2)
 
 **Deployed application URL**
-https://talkingskunk.github.io/homework3/
+https://talkingskunk.github.io/homework3-PWMaker
 
 **GitHub Repository URL**
-https://github.com/TalkingSkunk/homework3
+https://github.com/TalkingSkunk/homework3-PWMaker
 
 
 ## Table of Contents
